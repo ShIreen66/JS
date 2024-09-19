@@ -344,3 +344,33 @@
 //                         console.log("deafault");
 // }
 
+// write a program to take name and age from the user and 
+// a. print on console.
+// b. check if user eligible for vote or not and give the suitable message on console.
+// c. also if user not eligible for vote print the exact year left to made him eligible for vote.
+
+// const username = prompt ("enter name");
+// const age = +prompt ("enter age");
+
+// // ternary opt
+
+// // syntax
+// // const varname = condition ? true statement : false statement
+
+// const result =
+// age >= 18
+// ? "eligible for vote"
+// :'sorry! '
+
+// if (age >=18) {
+//         console.log ("elligible")
+// }
+
+
+// write a programme to take 3 numeric inputs from the user
+// a. check if all three numbers are equal or any two are equal or no one is equal
+
+// const a = prompt ("")
+
+// prep insta -> website
+// search prepinsta 100 queustion
